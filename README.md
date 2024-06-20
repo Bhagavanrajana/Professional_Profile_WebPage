@@ -1,5 +1,5 @@
 Introduction:
-Welcome to My Profile Repository! This project aims to Provide the Digiatal Profile of Your skills and achievements. It is designed to showcase yourself in professional way.
+Welcome to My Profile Repository! This project aims to provide the digital profile of Your skills and achievements. It is designed to showcase yourself professionally.
 
 Features
 Feature 1: Digital Professional Profile
